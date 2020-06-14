@@ -1,0 +1,121 @@
+.explore-pr {
+    margin-top: 71px;
+}
+
+.showroom {
+    margin-bottom: 300px;
+}
+
+
+.explore-panel {
+    margin-left: 0px;
+}
+.explore-menu {
+    float: left;
+
+}
+
+.explore-menu-list {
+    list-style-type: none;
+    float: left;
+}
+
+.explore-menu-link-pr:active {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #212121;
+    letter-spacing: 1.8px;
+    border-bottom: 2px solid #000;
+}
+
+.explore-menu-link-pr1:active {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #212121;
+    letter-spacing: 1.8px;
+    border-bottom: 2px solid #000;
+}
+
+.explore-menu-link-pr:hover {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #212121;
+    letter-spacing: 1.8px;
+    border-bottom: 2px solid #000;
+}
+
+.explore-menu-link-pr1:hover {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #212121;
+    letter-spacing: 1.8px;
+    border-bottom: 2px solid #000;
+}
+
+
+.explore-menu-link-pr {
+    color: #6c6c6c;
+    font-size: 18px;
+    font-weight: 700;
+    padding-right: 12px;
+    padding-bottom: 7px;
+    text-decoration: none;
+    border-bottom: 1px solid #000;
+    text-transform: uppercase;
+}
+
+.explore-menu-link-active-pr {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #212121;
+    letter-spacing: 1.8px;
+    border-bottom: 2px solid #000;
+}
+
+.explore-menu-link-pr1 {
+    color: #6c6c6c;
+    font-size: 18px;
+    font-weight: 700;
+    padding-right: 12px;
+    padding-bottom: 7px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.tb-tr {
+    border-bottom: 30px solid #fff;
+    border-right: 30px solid #fff;
+}
+
+.tb-tr-r {
+    border-bottom: 30px solid #fff;
+
+}
+
+.tb-tr-b {
+    border-right: 30px solid #fff;
+    border-bottom: none;
+
+}
+.trending-table-pr {
+    margin-top: 50px;
+}
+
+.upd {
+    margin-top: 71px;
+    float: left;
+    margin-left: 570px;
+
+}
+
+.exclsv-prd {
+    margin-top: 200px;
+    margin-bottom: 0 auto;
+}
+
+
